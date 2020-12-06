@@ -1,4 +1,4 @@
-# dinossaur_game
+# Dinossaur-Jumping-game
 Dinossaur jumping game built in Assembly language for the P4 processor (coded in portuguese language for a University project)
 
 Welcome!
